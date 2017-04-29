@@ -1,5 +1,5 @@
 # JSInputKeyListener
-* Will listen for keydown events on whichever input is focused.
+* Will listen for keydown and keyup events on whichever input is focused.
 * Uses plain JavaScript with no dependencies.
 * The default output is to the console but can be fully configured.
 
